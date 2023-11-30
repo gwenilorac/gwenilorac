@@ -27,6 +27,3 @@
    [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gwenilorac) 
 
 </ul>
-
-
- ![Snake animation](https://github.com/gwenilorac/me-myself-and-I/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
