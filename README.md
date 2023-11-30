@@ -1,16 +1,32 @@
-### Hi there 👋
+### Hi, I'm Caroline 🙃
 
-<!--
-**gwenilorac/gwenilorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align='right' src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="159">
+<h3><em> As a computer science student, I thrive on exploring the mysteries of INFOSEC, optimizing algorithms, and safeguarding data with my love for cybersecurity. ♡	♡ .
+ </em></h3>
+ <h2>Languages, Skills and IDEs:  </h2>
 
-Here are some ideas to get you started:
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,c,git,mysql,postgres,raspberrypi,linux,docker,arduino,vscode,eclipse,&perline=10)](https://skills.thijs.gg)
+<h2> About me: </h2>
+ <ul>
+   <li align="left"> <strong>  😄 Pronouns: </strong> She/her
+   </li>
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Java! 
+   </li>
+   <li align="left"> <strong>  	:woman_student: student at uni:  </strong> UniRitter
+   </li>
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> System Haus!
+   </li>
+    <li align="left"> <strong> 📫 How to reach me: </strong> wgomescaroline@gmail.com
+    </li>
+ </ul> 
+<br>
+<h2>Let's connect and code some fun projects together! 💻✨</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolinewgomes/) 
+   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wgomescaroline/)
+   [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@gwenilorac) 
+
+</ul>
+
+
+ ![Snake animation](https://github.com/gwenilorac/me-myself-and-I/blob/main/.github/workflows/github-contribution-grid-snake-dark.svg)
