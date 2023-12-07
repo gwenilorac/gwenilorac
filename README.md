@@ -12,7 +12,7 @@
    </li>
    <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Java! 
    </li>
-   <li align="left"> <strong> 📚 student at uni:  </strong> UniRitter
+   <li align="left"> <strong> 📚 Student at uni:  </strong> UniRitter
    </li>
     <li align="left"> <strong>  👀 I’m currently working at: </strong> System Haus!
    </li>
