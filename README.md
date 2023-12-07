@@ -1,7 +1,7 @@
 ### Hi, I'm Caroline 🙃
 
 <img align='right' src= "https://raw.githubusercontent.com/MarnieGrenat/images-readme/main/java%20book%20edited2.png" width="159">
-<h3><em> As a computer science student, I thrive on exploring the mysteries of INFOSEC, optimizing algorithms, and safeguarding data with my love for cybersecurity. ♡	♡ .
+<h3><em> As a computer science student, I thrive on exploring the mysteries of INFOSEC, optimizing algorithms, and safeguarding data with my love for cybersecurity. ♡	♡ 
  </em></h3>
  <h2>Languages, Skills and IDEs:  </h2>
 
