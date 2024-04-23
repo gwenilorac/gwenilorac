@@ -10,11 +10,11 @@
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
    </li>
-   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Java! 
+   <li align="left"> <strong> 🤓 Currently geeking out on: </strong> Cybersecurity! 
    </li>
    <li align="left"> <strong> 📚 Student at uni:  </strong> UniRitter
    </li>
-    <li align="left"> <strong>  👀 I’m currently working at: </strong> System Haus!
+    <li align="left"> <strong>  👀 I’m currently working at: </strong> Java!
    </li>
     <li align="left"> <strong> 📫 How to reach me: </strong> wgomescaroline@gmail.com
     </li>
