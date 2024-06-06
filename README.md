@@ -5,7 +5,7 @@
  </em></h3>
  <h2>Languages, Skills and IDEs:  </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,bash,hibernate,git,postgres,mysql,nginx,spring,gradle,docker,aws,maven,linux,kali,vscode,eclipse,&perline=8)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=java,bash,hibernate,git,postgres,mysql,mongodb,nginx,spring,gradle,docker,aws,maven,linux,kali,vscode,eclipse,&perline=8)](https://skills.thijs.gg)
 <h2> About me: </h2>
  <ul>
    <li align="left"> <strong>  😄 Pronouns: </strong> She/her
