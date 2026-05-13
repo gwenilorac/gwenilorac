@@ -14,7 +14,7 @@
    </li>
    <li align="left"> <strong> 📚 Student at uni:  </strong> UniRitter
    </li>
-    <li align="left"> <strong>  👀 I’m currently working at: </strong> Java!
+    <li align="left"> <strong>  👀 I’m currently working with: </strong> Java!
    </li>
     <li align="left"> <strong> 📫 How to reach me: </strong> wgomescaroline@gmail.com
     </li>
